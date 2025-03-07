@@ -1,0 +1,10 @@
+Alimento mais caro: Fondue - Preço: R$19.9
+Eletrodoméstico mais barato: Torradeira - Preço: R$360.1
+Vestuários em estoque:
+Camiseta - Quantidade em estoque: 10
+Calca - Quantidade em estoque: 5
+Bermuda - Quantidade em estoque: 16
+Casaco - Quantidade em estoque: 8
+Moleton - Quantidade em estoque: 36
+Gravata - Quantidade em estoque: 78
+Camiseta - Quantidade em estoque: 4
