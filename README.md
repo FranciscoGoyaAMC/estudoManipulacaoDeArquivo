@@ -1,5 +1,3 @@
-# estudoManipulacaoDeArquivo
-
 # Sistema de Gerenciamento de Estoque
 
 Este projeto é um sistema simples de gerenciamento de estoque para uma loja, que lê um arquivo contendo informações sobre produtos e gera um relatório com estatísticas sobre os itens armazenados.
