@@ -43,5 +43,5 @@ Após a leitura dos produtos, o sistema gera um relatório chamado `info.txt`, c
 - Programação Orientada a Objetos (POO)
 
 ---
-Desenvolvido por [Francisco Goya][https://github.com/FranciscoGoyaAMC] 🚀
+Desenvolvido por [Francisco Goya](https://github.com/FranciscoGoyaAMC) 🚀
 
